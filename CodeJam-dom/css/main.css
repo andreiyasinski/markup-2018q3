@@ -1,0 +1,34 @@
+.notification {
+  width: 400px;
+  height: 150px;
+  background: #dff0d8;
+  color: #77a274;
+  border-radius: 15px;
+  position: fixed;
+  right: 5px;
+  top: 5px;
+  padding: 20px 40px 0 20px;
+}
+
+.close {
+  display: block;
+  position: relative;
+  left: 419px;
+  top: -73px;
+  cursor: pointer;
+}
+
+.text {
+  margin: 0;
+  height: 60px;
+}
+
+h1, body > p {
+  padding: 0 100px;
+  text-align: justify;
+}
+
+.attantion {
+  float: left;
+  padding-right: 5px;
+}
